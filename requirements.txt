@@ -1,0 +1,9 @@
+crewai
+langgraph
+langchain
+openai
+fastapi
+uvicorn
+python-dotenv
+requests
+``
