@@ -1,0 +1,10 @@
+# Python default (auto from GitHub)
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+
+# Add manually
+.env.example
