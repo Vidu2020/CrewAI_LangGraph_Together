@@ -7,4 +7,4 @@ __pycache__/
 .venv/
 
 # Add manually
-.env
+.env.example
